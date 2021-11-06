@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "no": "1",
+      "namaSiswa": "layla",
+      "judulBuku": "majalah",
+      "tglPnjm": "23SM",
+      "tglKmbli": "besok"
+    }
+  ]
+}
